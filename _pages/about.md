@@ -4,8 +4,5 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+I am a Software Engineer trying to learn more about AI and sharing what I have learned through this blog is my way of giving back to the community so that it could help someone just starting into AI.
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
